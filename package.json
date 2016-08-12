@@ -1,0 +1,17 @@
+{
+  "name": "testando-cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^1.2.2",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-cucumberjs": "0.0.3",
+    "karma-phantomjs-launcher": "^1.0.1"
+  }
+}
